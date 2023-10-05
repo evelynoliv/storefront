@@ -2,7 +2,7 @@
 
 name = "react-storefront"
 client_id = "47884a72db7ddd78c95a77a29985b5fd"
-application_url = "https://police-drawn-reads-xi.trycloudflare.com"
+application_url = "https://robin-largely-warehouse-selective.trycloudflare.com"
 embedded = true
 
 [access_scopes]
@@ -11,9 +11,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://police-drawn-reads-xi.trycloudflare.com/auth/callback",
-  "https://police-drawn-reads-xi.trycloudflare.com/auth/shopify/callback",
-  "https://police-drawn-reads-xi.trycloudflare.com/api/auth/callback"
+  "https://robin-largely-warehouse-selective.trycloudflare.com/auth/callback",
+  "https://robin-largely-warehouse-selective.trycloudflare.com/auth/shopify/callback",
+  "https://robin-largely-warehouse-selective.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
